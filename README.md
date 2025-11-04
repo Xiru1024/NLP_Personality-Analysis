@@ -33,8 +33,6 @@ mkdir data
 ## Files
 
 - `main.ipynb` - All analysis code
-- `NLP_project.pdf` - Detailed project requirements
-- `data/` - Place downloaded datasets here
 
 ## Big Five Traits
 
