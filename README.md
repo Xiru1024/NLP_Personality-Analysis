@@ -1,5 +1,4 @@
 # NLP_Personality-Analysis
-# Personality Analysis from Conversations
 
 NLP project analyzing how personality traits (Big Five) relate to conversation patterns and emotions.
 
